@@ -1,3 +1,3 @@
 # Excel2PyJS
 
-Convert Excel Data to Python for JavaScript Data Mockup
+Excel to Python convertion for JavaScript data mockup
